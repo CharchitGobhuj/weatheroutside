@@ -1,2 +1,2 @@
-# weatheroutside
-Simple Weather web App using Html5
+# weather-web-app
+ 
